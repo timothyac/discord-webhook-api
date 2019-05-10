@@ -1,0 +1,27 @@
+{
+  "name": "discord-webhook-api",
+  "version": "1.0.0",
+  "description": "API to work easily with discord's webhook api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunstroUS/discord-webhook-api.git"
+  },
+  "keywords": [
+    "discord",
+    "webhook",
+    "api"
+  ],
+  "author": "sunstrous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunstroUS/discord-webhook-api/issues"
+  },
+  "homepage": "https://github.com/SunstroUS/discord-webhook-api#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
