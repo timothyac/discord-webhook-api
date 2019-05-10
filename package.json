@@ -1,6 +1,6 @@
 {
   "name": "discord-webhook-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API to work easily with discord's webhook api",
   "main": "index.js",
   "scripts": {
